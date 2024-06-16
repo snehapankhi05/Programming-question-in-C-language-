@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+//find prime number
 int main()
 {
     int i=1,n,count=0;
